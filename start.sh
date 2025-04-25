@@ -1,1 +1,1 @@
-poetry run python -m flask --app main:app run
+poetry run python -m flask --app main:app run --reload
